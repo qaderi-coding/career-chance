@@ -32,7 +32,7 @@ pip-delete-this-directory.txt
 # PyTest cache
 .pytest_cache/
 
-.app/migrations
+# .app/migrations
 
 # Coverage
 .coverage
