@@ -4,7 +4,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+ag_project
+ag_project.py
+app/migrations
 # Distribution / packaging
 .Python
 env/
@@ -32,7 +34,7 @@ pip-delete-this-directory.txt
 # PyTest cache
 .pytest_cache/
 
-# .app/migrations
+.app/migrations
 
 # Coverage
 .coverage

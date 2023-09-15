@@ -4,5 +4,5 @@ from .router import router
 
 urlpatterns = [
 
-    path('api/', include(router.urls))
+    path('app/', include(router.urls))
 ]
